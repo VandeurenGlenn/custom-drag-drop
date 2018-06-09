@@ -1,0 +1,27 @@
+{
+  "name": "custom-drag-drop",
+  "version": "0.1.0",
+  "description": "",
+  "main": "custom-drag-element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandeurenglenn/custom-drag-drop.git"
+  },
+  "keywords": [
+    "custom",
+    "drag",
+    "drop"
+  ],
+  "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vandeurenglenn/custom-drag-drop/issues"
+  },
+  "homepage": "https://github.com/vandeurenglenn/custom-drag-drop#readme",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
